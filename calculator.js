@@ -23,3 +23,6 @@ else if (operation == "/"){
     }
     alert("The result is: " + res)
 }
+else {
+    alert("Enter valid operator!")
+}
